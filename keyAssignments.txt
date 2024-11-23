@@ -1,0 +1,8 @@
+w 		   - move formard
+a 		   - move left
+d 		   - move right
+s 		   - move back
+
+left mouse button  - shoot
+right mouse button - hit
+space 		   - Shot from a sniper gun
